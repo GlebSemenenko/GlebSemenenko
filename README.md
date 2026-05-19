@@ -18,7 +18,6 @@ Backend Developer | Data Engenear
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-<img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt" width="36" height="36" />
 <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" />
 <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" title="Apache Spark" width="36" height="36" />
 <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" width="36" height="36" />
