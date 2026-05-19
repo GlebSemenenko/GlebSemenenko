@@ -6,7 +6,7 @@
 Backend Developer | Data Engenear
 ---------------------------------
 
-* ✉️  You can contact me at [@Gleb1652](mailto:@Gleb1652)
+* ✉️  You can contact me at [@Gleb1652](mailto:@Gleb1652) and semenenkogleb195@gmail.com
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
